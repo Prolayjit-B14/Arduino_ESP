@@ -17,6 +17,8 @@ Thrilled to unveil my Smart Irrigation System—a real-time solution combining t
  🔔 Buzzer Alerts: For timely notifications.
 
 
-Tinkercad Simulation :👉 https://lnkd.in/gzZnTukn
+Tinkercad Simulation 👉 https://www.tinkercad.com/things/hka7d05jf6T-prolayjit-biswas
 
-Visite Our Website 👉 https://lnkd.in/ghxta-pf
+Visite Our Website   👉 https://delta-community.vercel.app/
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7309591877329006594?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
