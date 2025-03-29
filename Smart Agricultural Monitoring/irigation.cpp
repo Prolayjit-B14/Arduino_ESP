@@ -1,4 +1,3 @@
-
 #include <DHT.h>
 
 // Define sensor pins
