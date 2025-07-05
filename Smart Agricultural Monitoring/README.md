@@ -28,7 +28,7 @@ An intelligent, automated environmental monitoring and irrigation system powered
 
 ## 🧰 Hardware Requirements
 
-|-----------------------------|-------------------------------------------|
+
 | Component                   | Description                               |
 |-----------------------------|-------------------------------------------|
 | Arduino UNO / Nano          | Core microcontroller                      |
@@ -43,13 +43,13 @@ An intelligent, automated environmental monitoring and irrigation system powered
 | White LED (optional)        | Light level indicator                     |
 | 9V Battery or USB Cable     | Power source                              |
 | Breadboard & Jumper Wires   | For circuit assembly                      |
-|-----------------------------|-------------------------------------------|
+
 
 ---
 
 ## 🔌 Pin Configuration
 
-|-------------------------|-------------|
+
 | Device                  | Arduino Pin |
 |-------------------------|-------------|
 | DHT11 Sensor            | D12         |
@@ -62,7 +62,7 @@ An intelligent, automated environmental monitoring and irrigation system powered
 | Yellow LED (Wet Soil)   | D5          |
 | Temp Alert LED          | D6          |
 | Light Condition LED     | D7          |
-|-------------------------|-------------|
+
 
 ---
 
