@@ -57,11 +57,11 @@ The system establishes WiFi connectivity and sends SMS notifications through a c
 ### 🔐 Configuration Parameters
 
 ```cpp
-const char* ssid = "Redmi Note 11 Pro+ 5G";     // WiFi network name
-const char* password = "@polu1411P";            // WiFi password
-const char* apiKey = "jDzlBeB3enDB";            // SMS API authorization key
+const char* ssid = "xxxxxxxxxxxxxxxxxxxxx";     // WiFi network name
+const char* password = "xxxxxxxxxx";            // WiFi password
+const char* apiKey = "xxxxxxxxxxxx";            // SMS API authorization key
 const char* templateID = "104";                 // SMS template identifier
-const char* mobileNumber = "917364098822";      // Recipient phone number
+const char* mobileNumber = "91xxxxxxxxxx";      // Recipient phone number
 const char* var1 = "GPS TRACKER";               // Template variable 1
 const char* var2 = "20";                        // Template variable 2
 ```
