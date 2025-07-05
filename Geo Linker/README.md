@@ -61,7 +61,7 @@ const char* ssid = "Your_WiFi_Name";
 const char* password = "Your_WiFi_Password";
 
 // GeoLinker Cloud API
-const char* apiKey = "jDzlBeB3enDB";
+const char* apiKey = "xxxxxxxxxxxx"; //API key
 const char* deviceID = "ESP-32_Tracker";
 
 // Tracking Settings
@@ -267,7 +267,6 @@ This project is provided as-is for educational and commercial use. Please check 
 
 - **Author**: CircuitDigest/Rithik_Krisna_M
 - **Version**: 1.0
-- **Last Modified**: 28/06/2025
 - **GeoLinker Library**: GPS tracking and cloud connectivity framework
 - **ESP32 Arduino Core**: Hardware abstraction layer for ESP32 platform
 - **NMEA GPS Protocol**: Standardized GPS data format specification
@@ -285,4 +284,3 @@ For technical support and questions:
 
 ---
 
-*Happy tracking with GeoLinker GPS Tracker! 🛰️📍*
