@@ -143,12 +143,11 @@ Install the following libraries via **Arduino Library Manager**:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – feel free to use and modify.
+This project is made during Project-A-Thon.
 
 ---
 
 ## 🙌 Acknowledgements
 
-- [TinyGPS++](https://github.com/mikalhart/TinyGPSPlus) by Mikal Hart
 - SIM800L documentation and GSM AT command reference
 
