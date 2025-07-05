@@ -131,28 +131,6 @@ Gas: 85 | Flame: 250
    - Adjust threshold values based on your environment
    - Test with controlled gas and flame sources
 
-## 🌍 Example GeoLinker Payload (Cloud Format)
-
-```json
-{
-  "device_id": "gas_fire_detector_01",
-  "timestamp": "2025-07-05T14:30:00Z",
-  "location": {
-    "lat": 23.4057,
-    "lon": 88.3741
-  },
-  "sensors": {
-    "gas_level": 75,
-    "flame_level": 300,
-    "status": "gas_detected"
-  },
-  "alerts": {
-    "active": true,
-    "type": "gas_leak",
-    "priority": "medium"
-  }
-}
-```
 
 ## 🔧 Customization Options
 
@@ -186,13 +164,6 @@ For timestamped logging:
 ```
 
 ## 🛠️ Troubleshooting
-
-### GPS Issues
-
-*Note: This system doesn't use GPS, but for location-based variants:*
-- Ensure clear sky visibility
-- Check antenna connections
-- Verify power supply stability
 
 ### WiFi Issues
 
