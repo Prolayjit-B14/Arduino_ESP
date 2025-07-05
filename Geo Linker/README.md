@@ -43,9 +43,9 @@ A comprehensive real-time GPS tracking solution for ESP32 microcontrollers with 
 ESP32                    GPS Module
 ┌─────────────┐         ┌─────────────┐
 │    GPIO16   │◄────────┤     TX      │
-│    GPIO17   │─────────►│     RX      │
-│     3.3V    │─────────►│     VCC     │
-│     GND     │─────────►│     GND     │
+│    GPIO17   │────────►│     RX      │
+│     3.3V    │────────►│     VCC     │
+│     GND     │────────►│     GND     │
 └─────────────┘         └─────────────┘
 ```
 
