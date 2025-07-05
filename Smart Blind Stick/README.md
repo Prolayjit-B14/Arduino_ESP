@@ -1,3 +1,4 @@
+
 # 👨‍🦯 Smart Blind Stick with Obstacle Detection & SOS Alert
 
 A smart assistive device designed for the visually impaired, integrating ultrasonic obstacle detection, GPS tracking, and GSM-based emergency SOS messaging.
@@ -82,15 +83,17 @@ Install the following libraries via Arduino Library Manager:
 1. Connect the hardware as per the pin configuration above.
 2. Replace the placeholder phone number in the code:
    ```cpp
-   gsmSerial.println("AT+CMGS=\"+91XXXXXXXXXX\"");
+   gsmSerial.println("AT+CMGS=\"+91XXXXXXXXXX\");
+   ```
 3. Upload the code to your Arduino.
-
-4. Open the Serial Monitor at 9600 baud.
-
+4. Open the Serial Monitor at **9600 baud**.
 5. Press the SOS button or trigger obstacle detection to test.
 
-📦 Sample Output
+---
 
+## 📦 Sample Output
+
+```
 🔰 Blind Smart SOS System Initializing...
 ✅ Ready! Monitoring started...
 
@@ -105,10 +108,26 @@ Install the following libraries via Arduino Library Manager:
 🚨 SOS ALERT!
 📍 Location: Lat: 22.5726, Lon: 88.3639
 ✅ Message sent!
+```
 
+---
 
+## 🚨 Disclaimer
 
-🚨 Disclaimer
-Always test your hardware with care, especially GSM and GPS modules which require proper voltage levels (GSM: 3.7–4.2V recommended).
+- Always test your hardware with care, especially GSM and GPS modules which require proper voltage levels (GSM: 3.7–4.2V recommended).
+- SMS charges may apply depending on your GSM provider.
 
-SMS charges may apply depending on your GSM provider.
+---
+
+## 📘 Future Enhancements
+
+- 🔋 Battery level monitoring
+- 🌐 Integration with cloud services (ThingSpeak, Blynk)
+- 🧭 Compass navigation using magnetometer
+- 🎤 Voice feedback system
+
+---
+
+## 📄 License
+
+This project is for Project-A-Thon.
